@@ -1,2 +1,2 @@
 # qrcode2.py
-QR Code Generator
+This QR Code Generator is bulit in python
